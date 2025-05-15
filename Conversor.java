@@ -8,7 +8,7 @@ import com.google.gson.JsonObject;
 
 public class Conversor {
 
-    // 👉 Substitua com sua chave da ExchangeRate-API
+    // Substitua com sua chave da ExchangeRate-API
     private static final String API_KEY = "e2546a89a3277509e550b5c0";
 
     public static void main(String[] args) {
